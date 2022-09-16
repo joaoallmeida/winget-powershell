@@ -29,6 +29,7 @@ $apps = @(
   @{appName = "JetBrains.PyCharm.Community"}
   @{appName = "SublimeHQ.SublimeText.4"}
   @{appName = "21090PaddyXu.QuickLook_egxr34yet59cg"}
+  @{appName = "Google.Drive"}
 );
 
 foreach ( $item in $apps ) {
